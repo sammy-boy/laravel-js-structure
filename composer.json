@@ -1,0 +1,17 @@
+{
+    "name": "anzarke/laravel-js-structure",
+    "description": "Laravel package for setting up structured JavaScript services and files.",
+    "autoload": {
+        "psr-4": {
+            "AnzarKe\\LaravelJsStructure\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AnzarKe\\LaravelJsStructure\\ModulusServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
