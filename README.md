@@ -1,13 +1,3 @@
-### **Creating a README.md File**
-
-1. **Create a `README.md` file** in the root of your package directory:
-
-   ```bash
-   touch README.md
-   ```
-
-2. **Edit the `README.md` file** with the following content:
-
    ```markdown
    # Laravel JS Package
 
