@@ -13,5 +13,14 @@
             ]
         }
     },
-    "require": {}
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sammy-boy/laravel-js-structure.git"
+        }
+    ],
+    "require": {
+        "anzarke/laravel-js-structure": "dev-main"
+    }
 }
